@@ -1,1 +1,1 @@
-# shops-inventory-management-system-automation
+# shops-inventory-automation
