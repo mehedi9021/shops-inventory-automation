@@ -1,1 +1,1 @@
-# shops-inventory-automation
+# shops-inventory-api-automation
